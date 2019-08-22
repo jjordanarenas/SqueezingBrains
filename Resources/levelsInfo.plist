@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Level1</key>
+	<dict>
+		<key>left number</key>
+		<string>1</string>
+		<key>operation</key>
+		<string>addition</string>
+		<key>result</key>
+		<string>5</string>
+		<key>solution</key>
+		<string>4</string>
+		<key>options</key>
+		<dict>
+			<key>option1</key>
+			<string>7</string>
+			<key>option2</key>
+			<string>3</string>
+			<key>option3</key>
+			<string>4</string>
+			<key>option4</key>
+			<string>5</string>
+		</dict>
+	</dict>
+	<key>Level2</key>
+	<dict>
+		<key>left number</key>
+		<string>9</string>
+		<key>operation</key>
+		<string>subtraction</string>
+		<key>result</key>
+		<string>6</string>
+		<key>solution</key>
+		<string>3</string>
+		<key>options</key>
+		<dict>
+			<key>option1</key>
+			<string>8</string>
+			<key>option2</key>
+			<string>3</string>
+			<key>option3</key>
+			<string>1</string>
+			<key>option4</key>
+			<string>6</string>
+		</dict>
+	</dict>
+	<key>Level3</key>
+	<dict>
+		<key>left number</key>
+		<string>2</string>
+		<key>operation</key>
+		<string>multiplication</string>
+		<key>result</key>
+		<string>8</string>
+		<key>solution</key>
+		<string>4</string>
+		<key>options</key>
+		<dict>
+			<key>option1</key>
+			<string>4</string>
+			<key>option2</key>
+			<string>9</string>
+			<key>option3</key>
+			<string>8</string>
+			<key>option4</key>
+			<string>6</string>
+		</dict>
+	</dict>
+	<key>Level4</key>
+	<dict>
+		<key>left number</key>
+		<string>9</string>
+		<key>operation</key>
+		<string>division</string>
+		<key>result</key>
+		<string>3</string>
+		<key>solution</key>
+		<string>3</string>
+		<key>options</key>
+		<dict>
+			<key>option1</key>
+			<string>1</string>
+			<key>option2</key>
+			<string>5</string>
+			<key>option3</key>
+			<string>4</string>
+			<key>option4</key>
+			<string>3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
